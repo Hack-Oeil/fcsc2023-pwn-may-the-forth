@@ -22,12 +22,12 @@ Origine : [May the Forth](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-m
 > http://localhost
 
 #### tentez 
-> nc may-the-forth.cyrhades.fr:4000
+> nc may-the-forth.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
